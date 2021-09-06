@@ -41,7 +41,7 @@ echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97m𝐑𝐔𝐁𝐈�
 echo ""
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97m𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  \e[1;91m =  \e[1;97m@Mohammad_tork_apk"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97m𝐂𝐡𝐚𝐧𝐞𝐥𝐥    \e[1;91m =  \e[1;97m@MRX_TM"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97m𝐂𝐡𝐚𝐧𝐞𝐥𝐥    \e[1;91m  =  \e[1;97m@MRX_TM"
 echo ''
 date | lolcat
 echo ""
